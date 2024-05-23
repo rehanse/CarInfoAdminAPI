@@ -1,0 +1,17 @@
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\bin\Debug\net6.0\CarInfo.DataAccess.Persistence.deps.json
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\bin\Debug\net6.0\CarInfo.DataAccess.Persistence.runtimeconfig.json
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\bin\Debug\net6.0\CarInfo.DataAccess.Persistence.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\bin\Debug\net6.0\CarInfo.DataAccess.Persistence.pdb
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\bin\Debug\net6.0\CarInfo.DataAccess.Domain.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\bin\Debug\net6.0\CarInfo.DataAccess.Domain.pdb
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.csproj.AssemblyReference.cache
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.AssemblyInfoInputs.cache
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.AssemblyInfo.cs
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.csproj.CoreCompileInputs.cache
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo..6C4B038D.Up2Date
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\refint\CarInfo.DataAccess.Persistence.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.pdb
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.genruntimeconfig.cache
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\ref\CarInfo.DataAccess.Persistence.dll

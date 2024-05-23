@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfoadminapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|solutionrelative:carinfoadminapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfoadminapi\\middleware\\exceptionmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|solutionrelative:carinfoadminapi\\middleware\\exceptionmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfoadminapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|solutionrelative:carinfoadminapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.persistence\\mapping\\modelprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|solutionrelative:carinfo.dataaccess.persistence\\mapping\\modelprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.persistence\\mapping\\mapperdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|solutionrelative:carinfo.dataaccess.persistence\\mapping\\mapperdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.persistence\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|solutionrelative:carinfo.dataaccess.persistence\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5992D17D-4815-4B28-8F9E-16A3EA9A1281}|CarInfo.DataAccess.Domain\\CarInfo.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5992D17D-4815-4B28-8F9E-16A3EA9A1281}|CarInfo.DataAccess.Domain\\CarInfo.DataAccess.Domain.csproj|solutionrelative:carinfo.dataaccess.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|solutionrelative:carinfo.dataaccess.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.persistence\\services\\persistenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|solutionrelative:carinfo.dataaccess.persistence\\services\\persistenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.persistence\\repository\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C85BC9-855A-455C-A6F0-9955AEE9AD5C}|CarInfo.DataAccess.Persistence\\CarInfo.DataAccess.Persistence.csproj|solutionrelative:carinfo.dataaccess.persistence\\repository\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5992D17D-4815-4B28-8F9E-16A3EA9A1281}|CarInfo.DataAccess.Domain\\CarInfo.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfo.dataaccess.domain\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5992D17D-4815-4B28-8F9E-16A3EA9A1281}|CarInfo.DataAccess.Domain\\CarInfo.DataAccess.Domain.csproj|solutionrelative:carinfo.dataaccess.domain\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|e:\\rehan\\project\\repo\\carinfoadminapi\\carinfoadminapi\\controllers\\carinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD4B56C-4063-43C1-AAD9-913F6B3F0B31}|CarInfoAdminAPI\\CarInfoAdminAPI.csproj|solutionrelative:carinfoadminapi\\controllers\\carinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionModelDTO.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Middleware\\ExceptionModelDTO.cs",
+              "RelativeDocumentMoniker": "CarInfoAdminAPI\\Middleware\\ExceptionModelDTO.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Middleware\\ExceptionModelDTO.cs",
+              "RelativeToolTip": "CarInfoAdminAPI\\Middleware\\ExceptionModelDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:24:38.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CarInfoAdminAPI\\Program.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Program.cs",
+              "RelativeToolTip": "CarInfoAdminAPI\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:24:25.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CarInfoAdminAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CarInfoAdminAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:56:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Persistence\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\ApplicationDBContext.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Persistence\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:21:56.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersistenceServices.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Services\\PersistenceServices.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Persistence\\Services\\PersistenceServices.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Services\\PersistenceServices.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Persistence\\Services\\PersistenceServices.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:20:51.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Domain\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Domain\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:43:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Persistence\\Repository\\CarRepository.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Persistence\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:34:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Repository\\UserAuthenticationService.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Persistence\\Repository\\UserAuthenticationService.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Repository\\UserAuthenticationService.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Persistence\\Repository\\UserAuthenticationService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:34:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarInfoController.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Controllers\\CarInfoController.cs",
+              "RelativeDocumentMoniker": "CarInfoAdminAPI\\Controllers\\CarInfoController.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfoAdminAPI\\Controllers\\CarInfoController.cs",
+              "RelativeToolTip": "CarInfoAdminAPI\\Controllers\\CarInfoController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:34:16.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelProfiler.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Mapping\\ModelProfiler.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Persistence\\Mapping\\ModelProfiler.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Mapping\\ModelProfiler.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Persistence\\Mapping\\ModelProfiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:29:23.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperData.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Mapping\\MapperData.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Persistence\\Mapping\\MapperData.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Persistence\\Mapping\\MapperData.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Persistence\\Mapping\\MapperData.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAcwJYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:26:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Domain\\CarDTO.cs",
+              "RelativeDocumentMoniker": "CarInfo.DataAccess.Domain\\CarDTO.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoAdminAPI\\CarInfo.DataAccess.Domain\\CarDTO.cs",
+              "RelativeToolTip": "CarInfo.DataAccess.Domain\\CarDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:23:43.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

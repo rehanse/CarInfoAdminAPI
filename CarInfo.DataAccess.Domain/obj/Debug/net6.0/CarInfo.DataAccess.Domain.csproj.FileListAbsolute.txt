@@ -1,0 +1,12 @@
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\bin\Debug\net6.0\CarInfo.DataAccess.Domain.deps.json
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\bin\Debug\net6.0\CarInfo.DataAccess.Domain.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\bin\Debug\net6.0\CarInfo.DataAccess.Domain.pdb
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\CarInfo.DataAccess.Domain.csproj.AssemblyReference.cache
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\CarInfo.DataAccess.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\CarInfo.DataAccess.Domain.AssemblyInfoInputs.cache
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\CarInfo.DataAccess.Domain.AssemblyInfo.cs
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\CarInfo.DataAccess.Domain.csproj.CoreCompileInputs.cache
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\CarInfo.DataAccess.Domain.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\refint\CarInfo.DataAccess.Domain.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\CarInfo.DataAccess.Domain.pdb
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Domain\obj\Debug\net6.0\ref\CarInfo.DataAccess.Domain.dll

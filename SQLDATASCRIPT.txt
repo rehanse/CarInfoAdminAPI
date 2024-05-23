@@ -1,0 +1,46 @@
+USE [CarInfoDB]
+GO
+SET IDENTITY_INSERT [dbo].[carTransmissionTypes] ON 
+GO
+INSERT [dbo].[carTransmissionTypes] ([id], [name]) VALUES (1, N'manual')
+GO
+INSERT [dbo].[carTransmissionTypes] ([id], [name]) VALUES (2, N'Automatic')
+GO
+SET IDENTITY_INSERT [dbo].[carTransmissionTypes] OFF
+GO
+SET IDENTITY_INSERT [dbo].[carType] ON 
+GO
+INSERT [dbo].[carType] ([id], [type]) VALUES (1, N'Hatchback')
+GO
+INSERT [dbo].[carType] ([id], [type]) VALUES (2, N'Sedan')
+GO
+INSERT [dbo].[carType] ([id], [type]) VALUES (3, N'SUV')
+GO
+INSERT [dbo].[carType] ([id], [type]) VALUES (4, N'Truck')
+GO
+SET IDENTITY_INSERT [dbo].[carType] OFF
+GO
+SET IDENTITY_INSERT [dbo].[manufacturer] ON 
+GO
+INSERT [dbo].[manufacturer] ([id], [name], [contactPerson], [registeredOffice]) VALUES (1, N'Suzuki', N'Dileep Dello', N'Dello Enterp')
+GO
+INSERT [dbo].[manufacturer] ([id], [name], [contactPerson], [registeredOffice]) VALUES (2, N'Toyota', N'Randher Singh', N'Singh Enterp')
+GO
+INSERT [dbo].[manufacturer] ([id], [name], [contactPerson], [registeredOffice]) VALUES (3, N'Mahindra', N'Mahindar Singh', N'Mahindar Enterp')
+GO
+INSERT [dbo].[manufacturer] ([id], [name], [contactPerson], [registeredOffice]) VALUES (4, N'LandRover', N'Tata Group', N'Tata')
+GO
+INSERT [dbo].[manufacturer] ([id], [name], [contactPerson], [registeredOffice]) VALUES (5, N'Tata', N'Balveer', N'Tata Group')
+GO
+SET IDENTITY_INSERT [dbo].[manufacturer] OFF
+GO
+SET IDENTITY_INSERT [dbo].[car] ON 
+GO
+INSERT [dbo].[car] ([Id], [carname], [carImage], [model], [manifactureId], [typeId], [engine], [BHP], [carTransmissionId], [mileage], [seat], [airBagDetails], [bootspace], [price]) VALUES (7, N'Suzki', N'425c51e2-088c-4531-8812-30edf2dd7e59.jpg', N'BH62', 1, 2, N'BHU72', 12, 1, 10, 4, N'Driver Side', N'Long', CAST(234567.00 AS Decimal(18, 2)))
+GO
+INSERT [dbo].[car] ([Id], [carname], [carImage], [model], [manifactureId], [typeId], [engine], [BHP], [carTransmissionId], [mileage], [seat], [airBagDetails], [bootspace], [price]) VALUES (9, N'Safari', N'3232a491-f6b5-4495-b5af-dbfa00de8862.jpg', N'BH6', 5, 3, N'GT233', 14, 1, 11, 5, N'Driver Side', N'Long', CAST(234324.00 AS Decimal(18, 2)))
+GO
+INSERT [dbo].[car] ([Id], [carname], [carImage], [model], [manifactureId], [typeId], [engine], [BHP], [carTransmissionId], [mileage], [seat], [airBagDetails], [bootspace], [price]) VALUES (16, N'Hundai09', N'deb5e390-ec00-4ca3-8ff7-e4b07e3290c4.jpg', N'HY77', 1, 3, N'HH009', 12, 2, 15, 4, N'Driver Side', N'Long', CAST(456789.00 AS Decimal(18, 2)))
+GO
+SET IDENTITY_INSERT [dbo].[car] OFF
+GO

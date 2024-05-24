@@ -76,3 +76,4 @@ E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfoAdminAPI\obj\Debug\net6.0\refint\Ca
 E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfoAdminAPI\obj\Debug\net6.0\CarInfoAdminAPI.pdb
 E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfoAdminAPI\obj\Debug\net6.0\CarInfoAdminAPI.genruntimeconfig.cache
 E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfoAdminAPI\obj\Debug\net6.0\ref\CarInfoAdminAPI.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfoAdminAPI\obj\Debug\net6.0\CarInfoAdminAPI.sourcelink.json

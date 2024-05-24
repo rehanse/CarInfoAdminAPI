@@ -17,6 +17,12 @@ namespace CarInfo.DataAccess.Persistence.Services
 {
     public static class PersistenceServices
     {
+        /// <summary>
+        /// services configuration of DBContext and with Identity Authentication based on JWT token
+        /// </summary>
+        /// <param name="services"></param>
+        /// <param name="configuration"></param>
+        /// <returns></returns>
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<ApplicationDBContext>(options =>

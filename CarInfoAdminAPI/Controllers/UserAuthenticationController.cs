@@ -29,10 +29,6 @@ namespace CarInfoAdminAPI.Controllers
         {
 
             var result = await authService.LoginAsync(model);
-            if (result.statusCode == 0)
-            {
-                return Unauthorized();
-            }
             return Ok(result);
         }
         [HttpGet("logOff")]

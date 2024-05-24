@@ -15,3 +15,4 @@ E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\n
 E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.pdb
 E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.genruntimeconfig.cache
 E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\ref\CarInfo.DataAccess.Persistence.dll
+E:\Rehan\Project\repo\CarInfoAdminAPI\CarInfo.DataAccess.Persistence\obj\Debug\net6.0\CarInfo.DataAccess.Persistence.sourcelink.json
